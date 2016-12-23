@@ -1,0 +1,16 @@
+{
+  "name": "lords_api",
+  "version": "1.0.0",
+  "description": "\"personal\" restful api for shits and giggels",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Lord Squirrel",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.4"
+  }
+}
