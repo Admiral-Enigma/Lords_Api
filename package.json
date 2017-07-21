@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "OxCart",
+  "author": "Lord Squirrel",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
